@@ -41,7 +41,7 @@ Example classes:
      - **Deep Image Prior (DIP):** Neural network-based denoiser.
      - **BM3D:** Block-matching 3D filter for Gaussian noise.  
 
-## 📦 Requirements
+## Requirements
 
 The following packages are required:
 
